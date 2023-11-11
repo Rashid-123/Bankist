@@ -1,11 +1,6 @@
 # Bankist
 
-HERE IS SOME HARD CODED DATA OF TWO USERS 
-(FIRST -- Jonas Schmedtmann , pin - 1111 ) , 
-
-(SECOND -- Jessica Davis , pin- 2222)
-
-You can explore the website by using ( user-id --> js , pin - 1111) , ( user-id --> jd , pin - 2222) 
+You can explore the website by using data of two different users  ( user-id --> js , pin - 1111) , ( user-id --> jd , pin - 2222) 
 
 Functionality of website 
  ** Transfer amount to another acount **
